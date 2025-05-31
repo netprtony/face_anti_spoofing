@@ -1,0 +1,11 @@
+numpy
+argparse
+opencv-python
+imutils
+keras
+tensorflow
+scikit-learn
+matplotlib
+tf2onnx
+onnx
+onnxruntime
